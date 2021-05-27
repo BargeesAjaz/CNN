@@ -1,4 +1,4 @@
-[9:12 AM, 5/27/2021] Ahba: # SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
+ # SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
